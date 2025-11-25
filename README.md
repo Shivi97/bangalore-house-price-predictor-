@@ -29,17 +29,10 @@ For model and modeling, the first step was data preprocessing which includes out
 - House price prediction based on Area, Rooms, Bathrooms, and Locality.
 - It's limited to Bengaluru only
 
-## Setting up on local machine: 
-1. Open git bash 
-2. git clone https://github.com/Ddhruv-IOT/Bengaluru-House-Price-Prediction.git
-3. Install all the dependencies using requirements.txt (optional step):
-	<pre> pip install -r requirements.txt </pre>
-4. Run the following command:
-	<pre> python start.py</pre>
-
 ## Demo Video 
 <p align="center"> <img src="https://github.com/Ddhruv-IOT/Home-Price-Prediction-Project/blob/main/demo/demo.gif" alt="animated" /> </p>
 
 # Thank you
 - Thank you all for using my app.
 - All suggestions are warmly welcomed.
+
